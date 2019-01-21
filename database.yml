@@ -1,0 +1,7 @@
+$ git checkout master
+
+$ bin/rake db:drop db:create db:structure:load
+
+$ git pull origin master
+
+$ bin/rake db:migrate
