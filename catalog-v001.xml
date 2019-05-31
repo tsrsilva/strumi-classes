@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ro/releases/2019-02-02/ro.owl" uri="file:/C:/Users/Thiago/Downloads/ro.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/pato/releases/2018-11-12/pato.owl" uri="file:/C:/Users/Thiago/Downloads/pato.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1548079369974" name="http://purl.obolibrary.org/obo/hao.owl/" uri="strumi-classes.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1559322258835" name="http://purl.obolibrary.org/obo/hao.owl/" uri="strumi-classes.owl"/>
     </group>
 </catalog>
